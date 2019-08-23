@@ -218,7 +218,6 @@ body:after {
 	height: inherit;
 	opacity: 0;
 	z-index: 1;
-	background-image: linear-gradient(to top, #0c3483 0%, #a2b6df 100%, #6b8cce 100%, #a2b6df 100%);
 	background-repeat: repeat, no-repeat;
 	background-size: 100px 100px, cover;
 	background-position: top left, center center;
@@ -1156,11 +1155,4 @@ body.is-preload #main {
 
 body.is-ie #wrapper {
 	height: 100%;
-}
-
-.picture {
-
-	width: 230px;
-	height: 215px;
-
 }
